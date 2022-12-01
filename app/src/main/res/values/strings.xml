@@ -1,0 +1,43 @@
+<resources>
+    <!--Configuração String do Aplicativo-->
+    <string name="app_name">Registro de Cliente</string>
+    <!--Configuração Nome Titulos-->
+    <string name="titulo_cadastro">Cadastro</string>
+    <string name="titulo_listar">Listar</string>
+    <string name="titulo_integrantes">Integrantes</string>
+    <string name="titulo_excluir">Excluir</string>
+    <string name="titulo_sobre">Integrantes</string>
+    <string name="titulo_sair">Sair</string>
+    <string name="profile_name_lucas">Lucas Matos</string>
+
+    <!--Configuração de Sub Titulos-->
+    <string name="sub_titulo_cliente">Cadastro Cliente</string>
+    <string name="sub_titulo_listar">Lista Clientes</string>
+    <string name="sub_titulo_detalhes">Detalhes Cliente</string>
+    <string name="sub_titulo_descricao">Descrição do App</string>
+
+    <!--Configuração Campo-->
+    <string name="txt_campo_nome">Nome Completo</string>
+    <string name="txt_campo_celular">(xx) xxxxx-xxxx</string>
+    <string name="txt_campo_email">exemplo@gmail.com</string>
+    <string name="txt_campo_endereco">Av. recife</string>
+    <string name="txt_campo_observacao">Observação (Opcional)</string>
+
+    <!--Configuração do Botão-->
+    <string name="btn_cadastro">Cadastro</string>
+    <string name="btn_alterar">Alterar</string>
+
+    <!--Configuração Texto-->
+    <string name="txt_resultado">Resultado...</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+</resources>
